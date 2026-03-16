@@ -47,7 +47,11 @@ Dashboard Design
 KPI Analysis
 
 ## Author & Contact
+
 Vikash Kumar
+
 Aspiring Business Analyst
+
 📧 Email: vikashkumar07x@gmail.com
+
 🔗 [LinkedIn] (https://www.linkedin.com/in/vikash-kumar-31803933a/) 🔗 Github
