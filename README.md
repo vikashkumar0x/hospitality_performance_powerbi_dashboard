@@ -11,7 +11,8 @@ Data Modeling
 DAX
 
 ## Dashboard Preview
-![Dashboard](Dashboard Image.png)
+
+![Dashboard](dashboard.png)
 
 ## Key Metrics
 
